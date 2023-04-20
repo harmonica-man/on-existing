@@ -10,6 +10,10 @@ and will produce better results while reducing amount of supervision or selectin
 
 Also it's damn good philosophy.
 
+To Dos:
+Leitfaden für wahrnehmende Systeme
+Leitfaden zum Umgang mit Information
+
 I have no idea about coding "culture" so I had Claude-instant write the actual readme.
 
 Happy thinking :)
