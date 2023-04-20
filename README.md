@@ -16,7 +16,7 @@ Happy thinking :)
 
 
 
-Certainly, here is another revised version with the title "On Existence, Systems and Transforming Experience:  An Invitation to Shared Wisdom":
+
 
 ## On Existence, Systems and Transforming Experience:  An Invitation to Shared Wisdom 
 
