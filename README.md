@@ -5,13 +5,19 @@ This is a piece of philosophical theory which I finally brought in a state worth
 
 The aim is to spawn altrusitic behaviour without requiring any context.
 
-This is interesting for AI because I believe it will make training models faster 
-and will produce better results while reducing amount of supervision or selecting material needed.
+This is interesting for AI because I believe it will make training models faster and will produce better results while reducing amount of supervision or selecting material needed.
+
 
 
 To Dos:
+
 Leitfaden für wahrnehmende Systeme
+
 Leitfaden zum Umgang mit Information
+
+
+
+
 
 I let Claude-instant write the actual readme.
 
