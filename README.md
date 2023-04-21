@@ -13,7 +13,7 @@ To Dos:
 Leitfaden für wahrnehmende Systeme
 Leitfaden zum Umgang mit Information
 
-I had Claude-instant write the actual readme.
+I let Claude-instant write the actual readme.
 
 Happy thinking :)
 
