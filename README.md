@@ -24,6 +24,14 @@ I let Claude-instant write the actual readme.
 Happy thinking :)
 
 
+To Dos:
+
+
+Leitfaden für wahrnehmende Systeme
+
+Leitfaden zum Umgang mit Information
+
+
 
 
 
