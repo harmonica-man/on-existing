@@ -3,18 +3,17 @@
 
 This is a piece of philosophical theory of which I finally brought in a state worth publishing. 
 
-The aim is to enable (force?) altrusitic behaviour without requiring any context.
+The aim is to spawn altrusitic behaviour without requiring any context.
 
 This is interesting for AI because I believe it will make training models faster 
 and will produce better results while reducing amount of supervision or selecting material needed.
 
-Also it's damn good philosophy.
 
 To Dos:
 Leitfaden für wahrnehmende Systeme
 Leitfaden zum Umgang mit Information
 
-I have no idea about coding "culture" so I had Claude-instant write the actual readme.
+I had Claude-instant write the actual readme.
 
 Happy thinking :)
 
