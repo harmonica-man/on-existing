@@ -3,7 +3,7 @@
 
 This is a piece of philosophical theory which I finally brought in a state worth publishing. 
 
-The aim is to spawn altrusitic behaviour without requiring any context.
+The aim is to eliminate malicious behaviour without requiring any context.
 
 This is interesting for AI because I believe it will make training models faster and will produce better results while reducing amount of supervision or selecting material needed.
 
