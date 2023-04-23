@@ -19,9 +19,9 @@ Happy thinking :)
 To Dos:
 
 
-Leitfaden für wahrnehmende Systeme
+Leitfaden für wahrnehmende Systeme (guidelines for recieving input)
 
-Leitfaden zum Umgang mit Information
+Leitfaden zum Umgang mit Information (guidelines for handling information)
 
 
 
