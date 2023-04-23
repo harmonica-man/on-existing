@@ -9,14 +9,6 @@ This is interesting for AI because I believe it will make training models faster
 
 
 
-To Dos:
-
-Leitfaden für wahrnehmende Systeme
-
-Leitfaden zum Umgang mit Information
-
-
-
 
 
 I let Claude-instant write the actual readme.
