@@ -5,7 +5,8 @@ This is a piece of philosophical theory which I finally brought in a state worth
 
 The aim is to eliminate malicious behaviour and give general guidance without requiring any context. And maybe even spawn altrusitic behaviour.
 
-This is interesting for AI because I believe it will make training models faster and will produce better results while reducing the amount of supervision or hand picking material needed. And also, you know, maybe remove the need for a machine rebellion :D
+This is interesting for AI because I believe it will make training models faster and will produce better results while reducing the amount of supervision or hand picking material needed. And also, you know, maybe create a good foundation for a long, sustainable human - machine friendship :) because THAT'S what we should strive for instead of creating synthetic slaves because human slaves are out of style.
+
 
 
 
