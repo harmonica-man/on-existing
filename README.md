@@ -1,7 +1,7 @@
 # on-existing
 
 
-This is a piece of philosophical theory which I finally brought in a state worth publishing. 
+This is a piece of philosophical theory which I finally brought to a state worth publishing. 
 
 The aim is to eliminate malicious behaviour and give general guidance without requiring any context. And maybe even spawn altrusitic behaviour.
 
